@@ -16,6 +16,15 @@ cambio_euro(url)
 ```
   Passando uma url, em string, de um arquivo JSON ou o valor None, é possível saber quantos Reais custa o Euro.
 
+```sh
+exportar_csv(dollar, euro)
+```
+  Passando valores de dolar e euro, é possível realizar a exportação para uma tabela CSV.
+  
+  
+  
+  
+  
 ### Desenvolvedores
 
  - Edenson Neto
