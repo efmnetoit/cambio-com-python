@@ -2,7 +2,7 @@
 
 # Resumo das multas do Ibama no estado do Acre
 
-Um script para listar todas as multas aplicadas pelo Ibama no estado do Acrw, referente a Fauna, Flora, Pesca e outros.
+Um script para listar todas as multas aplicadas pelo Ibama no estado do Acre, referente a Fauna, Flora, Pesca e outros.
 Gerando 4 tabelas, contendo as seguintes colunas:
 
 	- Município
@@ -11,8 +11,8 @@ Gerando 4 tabelas, contendo as seguintes colunas:
 	- Data da multa
 	- Situação do débito
 	
-
-
+Json coletado do site:
+http://dados.gov.br/
 
   
   
